@@ -1,0 +1,11 @@
+produkt_1  = "pomidory
+waga_1 = 10
+cena_1 = 60.00
+
+raport = f{x:30} {y:5.2f}"
+xxx
+
+suma:
+"""
+
+print(raport)

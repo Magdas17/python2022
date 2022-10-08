@@ -1,0 +1,118 @@
+#polecenia
+
+-mkdir
+-cd <nazwa>
+-cd ..    (idzie do gore)
+
+
+#instalacja Pythona
+
+#o jezykach
+
+-jezyk maszynowy
+-assemblery 
+
+mnemoniki - ADD
+
+-jezyki wyzszego poziomu
+
+kompilowane : kod żrodlowy jest kompilowany
+
+interpretowane 
+
+JIT - just in time
+
+
+
+PYTHON: JEZYK INTERPRETOWANY, SKRYPTOWY,ogolnego zastosowania
+typowany silnie
+typowany dynamicznie
+ma bogata społecznosc 
+bogata biblioteka narzedzi
+
+
+pip- manadzer pakietow
+
+
+---przydatne funkcje--------
+
+help           
+ interaktywn pomoc  help()
+       			help(print)
+			help(1)
+			help("str")   dokumentacja obiektu
+
+
+dir()   wyswietlenie nazw z biezacej przestrzeni nazw
+dir("napis")       zwraca liste atrybutow i metod
+
+
+
+
+PODSTAWOWE TYPY
+int - liczby calkowite
+operacje +-/ *    
+//(dzielenie calkowite)   
+% (reszta z dzielenia)                                  
+**(potegowanie)  
+
+
+
+
+
+system binarny  0b11
+system osemkowy 0o11
+system szesnastkowy 0x11
+
+
+bool
+False
+True
+
+operatory logiczne
+and, or not
+
+operatory porownania
+==
+.
+<
+>=
+<=!
+!=    roznie od
+
+del   -kasuje
+
+FLOAT
+
+COMPLEX   liczby zespolone
+
+
+str- napis
+
+
+
+
+ZMIENNE
+nazwy skladaja sie z liter, cyfr, znaku podkreslenia.
+
+najlepiej pisac kod po angielsku.
+
+some_variable
+
+
+
+
+WYRAZENIA WARUNKOWE
+warunek      if:
+		#cialo wyrazenia if
+		print("poza if")
+
+ 		if:
+		#cialo wyrazenia if
+	else:
+		print ("wewnatrz else")
+
+
+
+
+

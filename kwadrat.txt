@@ -1,0 +1,24 @@
+x = int(input("podaj polozenie na lini x: "))
+
+y = int(input("podaj polozenie na lini y: "))
+
+if 90 < x <= 100 and 90 < y <= 100:
+    print("GPR")
+elif 10 < x < 90 and 90 < y <= 100:
+    print("GORA")
+elif 0 <= x < 10 and 90 < y <= 100:
+    print("GLR")
+elif 10 < x < 90 and 10 < y < 90:
+    print("CENTRUM")
+elif 0 <= x < 10 and 0 <= y < 10:
+    print("DLR")
+elif 10 < x < 90 and 0 <= y < 10:
+    print("DOL")
+elif 90 < x < 100 and 0 <= y < 10:
+    print("DPR")
+elif 0 <= x < 10 and 10 < y < 90:
+    print("LBOK")
+elif 90 < x <= 100 and 10 < y < 90:
+    print("PBOK")
+else:
+    print("poza obszarem")

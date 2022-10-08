@@ -1,0 +1,19 @@
+produkt_1  = "pomidory"
+waga_1 = 10
+cena_1 = 60.00
+
+produkt_2 = "ogórki"
+waga_2 = 5
+cena_2 = 15
+
+produkt_3 = "rzodkiewki"
+waga_3 = 1
+cena_3 = 5
+
+raport = f{x:30} {y:5.2f}"
+xxx
+
+suma:
+"""
+
+print(raport)

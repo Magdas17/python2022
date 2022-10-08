@@ -1,0 +1,9 @@
+zmienna = "BMI"
+
+wzrost = int(input("height"))
+
+waga = int(input("weight"))
+
+BMI = waga / (wzrost/100)**2
+
+print("BMI rowna sie", BMI)
